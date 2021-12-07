@@ -1,0 +1,251 @@
+,Country Code,Name,Capital City,Area Km2,Population,Continent Code,Continent Name
+0,AND,Andorra,Andorra la Vella,468.0,"77,006",EU,Europe
+1,ARE,United Arab Emirates,Abu Dhabi,"82,880.0","9,630,959",AS,Asia
+2,AFG,Afghanistan,Kabul,"647,500.0","37,172,386",AS,Asia
+3,ATG,Antigua and Barbuda,St. John's,443.0,"96,286",NA,North America
+4,AIA,Anguilla,The Valley,102.0,"13,254",NA,North America
+5,ALB,Albania,Tirana,"28,748.0","2,866,376",EU,Europe
+6,ARM,Armenia,Yerevan,"29,800.0","2,951,776",AS,Asia
+7,AGO,Angola,Luanda,"1,246,700.0","30,809,762",AF,Africa
+8,ATA,Antarctica, ,"14,000,000.0",0,AN,Antartica
+9,ARG,Argentina,Buenos Aires,"2,766,890.0","44,494,502",SA,South America
+10,ASM,American Samoa,Pago Pago,199.0,"55,465",OC,Oceania
+11,AUT,Austria,Vienna,"83,858.0","8,847,037",EU,Europe
+12,AUS,Australia,Canberra,"7,686,850.0","24,992,369",OC,Oceania
+13,ABW,Aruba,Oranjestad,193.0,"105,845",NA,North America
+14,ALA,Åland,Mariehamn,"1,580.0","26,711",EU,Europe
+15,AZE,Azerbaijan,Baku,"86,600.0","9,942,334",AS,Asia
+16,BIH,Bosnia and Herzegovina,Sarajevo,"51,129.0","3,323,929",EU,Europe
+17,BRB,Barbados,Bridgetown,431.0,"286,641",NA,North America
+18,BGD,Bangladesh,Dhaka,"144,000.0","161,356,039",AS,Asia
+19,BEL,Belgium,Brussels,"30,510.0","11,422,068",EU,Europe
+20,BFA,Burkina Faso,Ouagadougou,"274,200.0","19,751,535",AF,Africa
+21,BGR,Bulgaria,Sofia,"110,910.0","7,000,039",EU,Europe
+22,BHR,Bahrain,Manama,665.0,"1,569,439",AS,Asia
+23,BDI,Burundi,Gitega,"27,830.0","11,175,378",AF,Africa
+24,BEN,Benin,Porto-Novo,"112,620.0","11,485,048",AF,Africa
+25,BLM,Saint Barthélemy,Gustavia,21.0,"8,45",NA,North America
+26,BMU,Bermuda,Hamilton,53.0,"63,968",NA,North America
+27,BRN,Brunei,Bandar Seri Begawan,"5,770.0","428,962",AS,Asia
+28,BOL,Bolivia,Sucre,"1,098,580.0","11,353,142",SA,South America
+29,BES,"Bonaire, Sint Eustatius, and Saba", ,328.0,"18,012",NA,North America
+30,BRA,Brazil,Brasilia,"8,511,965.0","209,469,333",SA,South America
+31,BHS,Bahamas,Nassau,"13,940.0","385,64",NA,North America
+32,BTN,Bhutan,Thimphu,"47,000.0","754,394",AS,Asia
+33,BVT,Bouvet Island, ,49.0,0,AN,Antartica
+34,BWA,Botswana,Gaborone,"600,370.0","2,254,126",AF,Africa
+35,BLR,Belarus,Minsk,"207,600.0","9,485,386",EU,Europe
+36,BLZ,Belize,Belmopan,"22,966.0","383,071",NA,North America
+37,CAN,Canada,Ottawa,"9,984,670.0","37,058,856",NA,North America
+38,CCK,Cocos (Keeling) Islands,West Island,14.0,628,AS,Asia
+39,COD,DR Congo,Kinshasa,"2,345,410.0","84,068,091",AF,Africa
+40,CAF,Central African Republic,Bangui,"622,984.0","4,666,377",AF,Africa
+41,COG,Congo Republic,Brazzaville,"342,000.0","5,244,363",AF,Africa
+42,CHE,Switzerland,Bern,"41,290.0","8,516,543",EU,Europe
+43,CIV,Ivory Coast,Yamoussoukro,"322,460.0","25,069,229",AF,Africa
+44,COK,Cook Islands,Avarua,240.0,"21,388",OC,Oceania
+45,CHL,Chile,Santiago,"756,950.0","18,729,160",SA,South America
+46,CMR,Cameroon,Yaounde,"475,440.0","25,216,237",AF,Africa
+47,CHN,China,Beijing,"9,596,960.0","1,392,730,000",AS,Asia
+48,COL,Colombia,Bogota,"1,138,910.0","49,648,685",SA,South America
+49,CRI,Costa Rica,San Jose,"51,100.0","4,999,441",NA,North America
+50,CUB,Cuba,Havana,"110,860.0","11,338,138",NA,North America
+51,CPV,Cabo Verde,Praia,"4,033.0","543,767",AF,Africa
+52,CUW,Curaçao,Willemstad,444.0,"159,849",NA,North America
+53,CXR,Christmas Island,Flying Fish Cove,135.0,"1,5",OC,Oceania
+54,CYP,Cyprus,Nicosia,"9,250.0","1,189,265",EU,Europe
+55,CZE,Czechia,Prague,"78,866.0","10,625,695",EU,Europe
+56,DEU,Germany,Berlin,"357,021.0","82,927,922",EU,Europe
+57,DJI,Djibouti,Djibouti,"23,000.0","958,92",AF,Africa
+58,DNK,Denmark,Copenhagen,"43,094.0","5,797,446",EU,Europe
+59,DMA,Dominica,Roseau,754.0,"71,625",NA,North America
+60,DOM,Dominican Republic,Santo Domingo,"48,730.0","10,627,165",NA,North America
+61,DZA,Algeria,Algiers,"2,381,740.0","42,228,429",AF,Africa
+62,ECU,Ecuador,Quito,"283,560.0","17,084,357",SA,South America
+63,EST,Estonia,Tallinn,"45,226.0","1,320,884",EU,Europe
+64,EGY,Egypt,Cairo,"1,001,450.0","98,423,595",AF,Africa
+65,ESH,Western Sahara,El-Aaiun,"266,000.0","273,008",AF,Africa
+66,ERI,Eritrea,Asmara,"121,320.0",0,AF,Africa
+67,ESP,Spain,Madrid,"504,782.0","46,723,749",EU,Europe
+68,ETH,Ethiopia,Addis Ababa,"1,127,127.0","109,224,559",AF,Africa
+69,FIN,Finland,Helsinki,"337,030.0","5,518,050",EU,Europe
+70,FJI,Fiji,Suva,"18,270.0","883,483",OC,Oceania
+71,FLK,Falkland Islands,Stanley,"12,173.0","2,638",SA,South America
+72,FSM,Micronesia,Palikir,702.0,"112,64",OC,Oceania
+73,FRO,Faroe Islands,Torshavn,"1,399.0","48,497",EU,Europe
+74,FRA,France,Paris,"547,030.0","66,987,244",EU,Europe
+75,GAB,Gabon,Libreville,"267,667.0","2,119,275",AF,Africa
+76,GBR,United Kingdom,London,"244,820.0","66,488,991",EU,Europe
+77,GRD,Grenada,St. George's,344.0,"111,454",NA,North America
+78,GEO,Georgia,Tbilisi,"69,700.0","3,731,000",AS,Asia
+79,GUF,French Guiana,Cayenne,"91,000.0","195,506",SA,South America
+80,GGY,Guernsey,St Peter Port,78.0,"65,228",EU,Europe
+81,GHA,Ghana,Accra,"239,460.0","29,767,108",AF,Africa
+82,GIB,Gibraltar,Gibraltar,6.5,"33,718",EU,Europe
+83,GRL,Greenland,Nuuk,"2,166,086.0","56,025",NA,North America
+84,GMB,The Gambia,Banjul,"11,300.0","2,280,102",AF,Africa
+85,GIN,Guinea,Conakry,"245,857.0","12,414,318",AF,Africa
+86,GLP,Guadeloupe,Basse-Terre,"1,780.0",443,NA,North America
+87,GNQ,Equatorial Guinea,Malabo,"28,051.0","1,308,974",AF,Africa
+88,GRC,Greece,Athens,"131,940.0","10,727,668",EU,Europe
+89,SGS,South Georgia and South Sandwich Islands,Grytviken,"3,903.0",30,AN,Antartica
+90,GTM,Guatemala,Guatemala City,"108,890.0","17,247,807",NA,North America
+91,GUM,Guam,Hagatna,549.0,"165,768",OC,Oceania
+92,GNB,Guinea-Bissau,Bissau,"36,120.0","1,874,309",AF,Africa
+93,GUY,Guyana,Georgetown,"214,970.0","779,004",SA,South America
+94,HKG,Hong Kong,Hong Kong,"1,092.0","7,451,000",AS,Asia
+95,HMD,Heard and McDonald Islands, ,412.0,0,AN,Antartica
+96,HND,Honduras,Tegucigalpa,"112,090.0","9,587,522",NA,North America
+97,HRV,Croatia,Zagreb,"56,542.0","4,089,400",EU,Europe
+98,HTI,Haiti,Port-au-Prince,"27,750.0","11,123,176",NA,North America
+99,HUN,Hungary,Budapest,"93,030.0","9,768,785",EU,Europe
+100,IDN,Indonesia,Jakarta,"1,919,440.0","267,663,435",AS,Asia
+101,IRL,Ireland,Dublin,"70,280.0","4,853,506",EU,Europe
+102,ISR,Israel,Jerusalem,"20,770.0","8,883,800",AS,Asia
+103,IMN,Isle of Man,Douglas,572.0,"84,077",EU,Europe
+104,IND,India,New Delhi,"3,287,590.0","1,352,617,328",AS,Asia
+105,IOT,British Indian Ocean Territory,Diego Garcia,60.0,4,AS,Asia
+106,IRQ,Iraq,Baghdad,"437,072.0","38,433,600",AS,Asia
+107,IRN,Iran,Tehran,"1,648,000.0","81,800,269",AS,Asia
+108,ISL,Iceland,Reykjavik,"103,000.0","353,574",EU,Europe
+109,ITA,Italy,Rome,"301,230.0","60,431,283",EU,Europe
+110,JEY,Jersey,Saint Helier,116.0,"90,812",EU,Europe
+111,JAM,Jamaica,Kingston,"10,991.0","2,934,855",NA,North America
+112,JOR,Jordan,Amman,"92,300.0","9,956,011",AS,Asia
+113,JPN,Japan,Tokyo,"377,835.0","126,529,100",AS,Asia
+114,KEN,Kenya,Nairobi,"582,650.0","51,393,010",AF,Africa
+115,KGZ,Kyrgyzstan,Bishkek,"198,500.0","6,315,800",AS,Asia
+116,KHM,Cambodia,Phnom Penh,"181,040.0","16,249,798",AS,Asia
+117,KIR,Kiribati,Tarawa,811.0,"115,847",OC,Oceania
+118,COM,Comoros,Moroni,"2,170.0","832,322",AF,Africa
+119,KNA,St Kitts and Nevis,Basseterre,261.0,"52,441",NA,North America
+120,PRK,North Korea,Pyongyang,"120,540.0","25,549,819",AS,Asia
+121,KOR,South Korea,Seoul,"98,480.0","51,635,256",AS,Asia
+122,KWT,Kuwait,Kuwait City,"17,820.0","4,137,309",AS,Asia
+123,CYM,Cayman Islands,George Town,262.0,"64,174",NA,North America
+124,KAZ,Kazakhstan,Nur-Sultan,"2,717,300.0","18,276,499",AS,Asia
+125,LAO,Laos,Vientiane,"236,800.0","7,061,507",AS,Asia
+126,LBN,Lebanon,Beirut,"10,400.0","6,848,925",AS,Asia
+127,LCA,Saint Lucia,Castries,616.0,"181,889",NA,North America
+128,LIE,Liechtenstein,Vaduz,160.0,"37,91",EU,Europe
+129,LKA,Sri Lanka,Colombo,"65,610.0","21,670,000",AS,Asia
+130,LBR,Liberia,Monrovia,"111,370.0","4,818,977",AF,Africa
+131,LSO,Lesotho,Maseru,"30,355.0","2,108,132",AF,Africa
+132,LTU,Lithuania,Vilnius,"65,200.0","2,789,533",EU,Europe
+133,LUX,Luxembourg,Luxembourg,"2,586.0","607,728",EU,Europe
+134,LVA,Latvia,Riga,"64,589.0","1,926,542",EU,Europe
+135,LBY,Libya,Tripoli,"1,759,540.0","6,678,567",AF,Africa
+136,MAR,Morocco,Rabat,"446,550.0","36,029,138",AF,Africa
+137,MCO,Monaco,Monaco,1.9,"38,682",EU,Europe
+138,MDA,Moldova,Chisinau,"33,843.0","3,545,883",EU,Europe
+139,MNE,Montenegro,Podgorica,"14,026.0","622,345",EU,Europe
+140,MAF,Saint Martin,Marigot,53.0,"37,264",NA,North America
+141,MDG,Madagascar,Antananarivo,"587,040.0","26,262,368",AF,Africa
+142,MHL,Marshall Islands,Majuro,181.3,"58,413",OC,Oceania
+143,MKD,North Macedonia,Skopje,"25,333.0","2,082,958",EU,Europe
+144,MLI,Mali,Bamako,"1,240,000.0","19,077,690",AF,Africa
+145,MMR,Myanmar,Nay Pyi Taw,"678,500.0","53,708,395",AS,Asia
+146,MNG,Mongolia,Ulaanbaatar,"1,565,000.0","3,170,208",AS,Asia
+147,MAC,Macao,Macao,254.0,"631,636",AS,Asia
+148,MNP,Northern Mariana Islands,Saipan,477.0,"56,882",OC,Oceania
+149,MTQ,Martinique,Fort-de-France,"1,100.0","432,9",NA,North America
+150,MRT,Mauritania,Nouakchott,"1,030,700.0","4,403,319",AF,Africa
+151,MSR,Montserrat,Plymouth,102.0,"9,341",NA,North America
+152,MLT,Malta,Valletta,316.0,"483,53",EU,Europe
+153,MUS,Mauritius,Port Louis,"2,040.0","1,265,303",AF,Africa
+154,MDV,Maldives,Male,300.0,"515,696",AS,Asia
+155,MWI,Malawi,Lilongwe,"118,480.0","17,563,749",AF,Africa
+156,MEX,Mexico,Mexico City,"1,972,550.0","126,190,788",NA,North America
+157,MYS,Malaysia,Kuala Lumpur,"329,750.0","31,528,585",AS,Asia
+158,MOZ,Mozambique,Maputo,"801,590.0","29,495,962",AF,Africa
+159,NAM,Namibia,Windhoek,"825,418.0","2,448,255",AF,Africa
+160,NCL,New Caledonia,Noumea,"19,060.0","284,06",OC,Oceania
+161,NER,Niger,Niamey,"1,267,000.0","22,442,948",AF,Africa
+162,NFK,Norfolk Island,Kingston,34.6,"1,828",OC,Oceania
+163,NGA,Nigeria,Abuja,"923,768.0","195,874,740",AF,Africa
+164,NIC,Nicaragua,Managua,"129,494.0","6,465,513",NA,North America
+165,NLD,Netherlands,Amsterdam,"41,526.0","17,231,017",EU,Europe
+166,NOR,Norway,Oslo,"324,220.0","5,314,336",EU,Europe
+167,NPL,Nepal,Kathmandu,"140,800.0","28,087,871",AS,Asia
+168,NRU,Nauru,Yaren,21.0,"12,704",OC,Oceania
+169,NIU,Niue,Alofi,260.0,"2,166",OC,Oceania
+170,NZL,New Zealand,Wellington,"268,680.0","4,885,500",OC,Oceania
+171,OMN,Oman,Muscat,"212,460.0","4,829,483",AS,Asia
+172,PAN,Panama,Panama City,"78,200.0","4,176,873",NA,North America
+173,PER,Peru,Lima,"1,285,220.0","31,989,256",SA,South America
+174,PYF,French Polynesia,Papeete,"4,167.0","277,679",OC,Oceania
+175,PNG,Papua New Guinea,Port Moresby,"462,840.0","8,606,316",OC,Oceania
+176,PHL,Philippines,Manila,"300,000.0","106,651,922",AS,Asia
+177,PAK,Pakistan,Islamabad,"803,940.0","212,215,030",AS,Asia
+178,POL,Poland,Warsaw,"312,685.0","37,978,548",EU,Europe
+179,SPM,Saint Pierre and Miquelon,Saint-Pierre,242.0,"7,012",NA,North America
+180,PCN,Pitcairn Islands,Adamstown,47.0,46,OC,Oceania
+181,PRI,Puerto Rico,San Juan,"9,104.0","3,195,153",NA,North America
+182,PSE,Palestine,East Jerusalem,"5,970.0","4,569,087",AS,Asia
+183,PRT,Portugal,Lisbon,"92,391.0","10,281,762",EU,Europe
+184,PLW,Palau,Melekeok,458.0,"17,907",OC,Oceania
+185,PRY,Paraguay,Asuncion,"406,750.0","6,956,071",SA,South America
+186,QAT,Qatar,Doha,"11,437.0","2,781,677",AS,Asia
+187,REU,Réunion,Saint-Denis,"2,517.0","776,948",AF,Africa
+188,ROU,Romania,Bucharest,"237,500.0","19,473,936",EU,Europe
+189,SRB,Serbia,Belgrade,"88,361.0","6,982,084",EU,Europe
+190,RUS,Russia,Moscow,"17,100,000.0","144,478,050",EU,Europe
+191,RWA,Rwanda,Kigali,"26,338.0","12,301,939",AF,Africa
+192,SAU,Saudi Arabia,Riyadh,"1,960,582.0","33,699,947",AS,Asia
+193,SLB,Solomon Islands,Honiara,"28,450.0","652,858",OC,Oceania
+194,SYC,Seychelles,Victoria,455.0,"96,762",AF,Africa
+195,SDN,Sudan,Khartoum,"1,861,484.0","41,801,533",AF,Africa
+196,SWE,Sweden,Stockholm,"449,964.0","10,183,175",EU,Europe
+197,SGP,Singapore,Singapore,692.7,"5,638,676",AS,Asia
+198,SHN,Saint Helena,Jamestown,410.0,"7,46",AF,Africa
+199,SVN,Slovenia,Ljubljana,"20,273.0","2,067,372",EU,Europe
+200,SJM,Svalbard and Jan Mayen,Longyearbyen,"62,049.0","2,55",EU,Europe
+201,SVK,Slovakia,Bratislava,"48,845.0","5,447,011",EU,Europe
+202,SLE,Sierra Leone,Freetown,"71,740.0","7,650,154",AF,Africa
+203,SMR,San Marino,San Marino,61.2,"33,785",EU,Europe
+204,SEN,Senegal,Dakar,"196,190.0","15,854,360",AF,Africa
+205,SOM,Somalia,Mogadishu,"637,657.0","15,008,154",AF,Africa
+206,SUR,Suriname,Paramaribo,"163,270.0","575,991",SA,South America
+207,SSD,South Sudan,Juba,"644,329.0","8,260,490",AF,Africa
+208,STP,São Tomé and Príncipe,Sao Tome,"1,001.0","197,7",AF,Africa
+209,SLV,El Salvador,San Salvador,"21,040.0","6,420,744",NA,North America
+210,SXM,Sint Maarten,Philipsburg,21.0,"40,654",NA,North America
+211,SYR,Syria,Damascus,"185,180.0","16,906,283",AS,Asia
+212,SWZ,Eswatini,Mbabane,"17,363.0","1,136,191",AF,Africa
+213,TCA,Turks and Caicos Islands,Cockburn Town,430.0,"37,665",NA,North America
+214,TCD,Chad,N'Djamena,"1,284,000.0","15,477,751",AF,Africa
+215,ATF,French Southern Territories,Port-aux-Francais,"7,829.0",140,AN,Antartica
+216,TGO,Togo,Lome,"56,785.0","7,889,094",AF,Africa
+217,THA,Thailand,Bangkok,"514,000.0","69,428,524",AS,Asia
+218,TJK,Tajikistan,Dushanbe,"143,100.0","9,100,837",AS,Asia
+219,TKL,Tokelau, ,10.0,"1,466",OC,Oceania
+220,TLS,Timor-Leste,Dili,"15,007.0","1,267,972",OC,Oceania
+221,TKM,Turkmenistan,Ashgabat,"488,100.0","5,850,908",AS,Asia
+222,TUN,Tunisia,Tunis,"163,610.0","11,565,204",AF,Africa
+223,TON,Tonga,Nuku'alofa,748.0,"103,197",OC,Oceania
+224,TUR,Turkey,Ankara,"780,580.0","82,319,724",AS,Asia
+225,TTO,Trinidad and Tobago,Port of Spain,"5,128.0","1,389,858",NA,North America
+226,TUV,Tuvalu,Funafuti,26.0,"11,508",OC,Oceania
+227,TWN,Taiwan,Taipei,"35,980.0","22,894,384",AS,Asia
+228,TZA,Tanzania,Dodoma,"945,087.0","56,318,348",AF,Africa
+229,UKR,Ukraine,Kyiv,"603,700.0","44,622,516",EU,Europe
+230,UGA,Uganda,Kampala,"236,040.0","42,723,139",AF,Africa
+231,UMI,U.S. Outlying Islands, ,0.0,0,OC,Oceania
+232,USA,United States,Washington,"9,629,091.0","327,167,434",NA,North America
+233,URY,Uruguay,Montevideo,"176,220.0","3,449,299",SA,South America
+234,UZB,Uzbekistan,Tashkent,"447,400.0","32,955,400",AS,Asia
+235,VAT,Vatican City,Vatican City,0.4,921,EU,Europe
+236,VCT,St Vincent and Grenadines,Kingstown,389.0,"110,211",NA,North America
+237,VEN,Venezuela,Caracas,"912,050.0","28,870,195",SA,South America
+238,VGB,British Virgin Islands,Road Town,153.0,"29,802",NA,North America
+239,VIR,U.S. Virgin Islands,Charlotte Amalie,352.0,"106,977",NA,North America
+240,VNM,Vietnam,Hanoi,"329,560.0","95,540,395",AS,Asia
+241,VUT,Vanuatu,Port Vila,"12,200.0","292,68",OC,Oceania
+242,WLF,Wallis and Futuna,Mata Utu,274.0,"16,025",OC,Oceania
+243,WSM,Samoa,Apia,"2,944.0","196,13",OC,Oceania
+244,XKX,Kosovo,Pristina,"10,908.0","1,845,300",EU,Europe
+245,YEM,Yemen,Sanaa,"527,970.0","28,498,687",AS,Asia
+246,MYT,Mayotte,Mamoudzou,374.0,"279,471",AF,Africa
+247,ZAF,South Africa,Pretoria,"1,219,912.0","57,779,622",AF,Africa
+248,ZMB,Zambia,Lusaka,"752,614.0","17,351,822",AF,Africa
+249,ZWE,Zimbabwe,Harare,"390,580.0","14,439,018",AF,Africa
